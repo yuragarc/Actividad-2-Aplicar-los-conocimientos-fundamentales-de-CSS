@@ -1,84 +1,50 @@
-/* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f1f1f1; /* Color de fondo */
-    color: #333; /* Color de texto */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2; 
+  color: #333; 
 }
 
-/* Estilo del encabezado */
 header {
-    background-color: #4B0082; /* Color del encabezado */
-    color: white;
-    text-align: center;
-    padding: 20px;
-    border-bottom: 5px solid #6A5ACD; /* Borde inferior */
+  background-color: #6a0dad; 
+  color: white;
+  text-align: center;
+  padding: 20px;
 }
 
-/* Estilo de los títulos */
-h1 {
-    font-size: 2.5em;
-    margin: 0;
+h1, h2 {
+  color: #6a0dad; 
 }
 
-h2 {
-    font-size: 1.5em;
-    margin: 0;
-    margin-top: 10px;
-}
-
-/* Estilo específico para la sección "Sobre mí" */
 #sobre-mi {
-    background-color: white; /* Fondo blanco para la sección */
-    padding: 20px;
-    margin: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+  background-color: white; 
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
 }
 
-/* Estilo de la clase "datos-interes" */
 .datos-interes {
-    font-weight: bold;
-    color: #555; /* Color para los datos de interés */
-    background-color: #e6e6e6; /* Fondo gris claro */
-    padding: 10px;
-    border-left: 4px solid #4B0082; /* Borde izquierdo */
+  font-weight: bold;
+  color: #555; 
+  background-color: #e6e6e6; 
+  padding: 10px;
+  border-left: 4px solid #6a0dad; 
 }
 
-/* Estilo de habilidades */
-#habilidades {
-    margin-top: 20px;
-}
-
-#habilidades ul {
-    list-style-type: none; /* Sin puntos en la lista */
-    padding: 0;
-}
-
-#habilidades li {
-    background-color: #4B0082; /* Color de fondo para los ítems */
-    color: white; /* Color del texto */
-    padding: 10px;
-    margin: 5px 0;
-    border-radius: 5px; /* Esquinas redondeadas */
-}
-
-/* Estilo para el pie de página */
 footer {
-    background-color: #333; /* Color del pie de página */
-    color: white;
-    text-align: center;
-    padding: 15px;
-    margin-top: 20px;
+  background-color: #333; 
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
 }
 
-/* Efectos de los enlaces */
 a {
-    color: white;
-    text-decoration: none;
+  color: #6a0dad;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline; /* Subrayar al pasar el cursor */
+  text-decoration: underline; 
 }
