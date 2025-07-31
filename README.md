@@ -2,6 +2,7 @@
 
 ## Introducción
 Este informe detalla los ajustes realizados al portafolio de Yuraima García, específicamente la implementación de estilos CSS mediante un archivo externo (`style.css`), siguiendo los requisitos establecidos en la evaluación del módulo 2. Se describen a continuación las clases aplicadas y su respectiva explicación.
+https://yuragarc.github.io/Actividad-2-Aplicar-los-conocimientos-fundamentales-de-CSS/
 
 ## Estilos Aplicados
 
